@@ -1,0 +1,245 @@
+body{margin:0 ;
+  background-color: #679B9B;
+
+
+    }
+.upper-section
+{height:200px;
+
+
+}
+#display
+{
+    text-align:center;
+}
+#restart-button
+{
+  
+}
+p{text-align: center;
+  color: #F4F4F4;
+  }
+
+.numbers {
+
+    margin: auto;
+    width: 95%;
+    max-width: 300px;
+    height: 300px;
+    overflow: visible;
+    position: relative;
+}
+
+.box{
+  background-color:#77D8D8;
+  width: 50px;
+  height: 50px;
+
+}
+
+._1 {
+
+
+  position:absolute;
+left:4px;
+top:4px;
+}
+
+._2 {
+
+
+  position:absolute;
+  left:58px;
+  top:4px;
+}
+
+._3 {
+
+
+  position:absolute;
+  left:112px;
+  top:4px;
+}
+
+._4 {
+
+
+  position:absolute;
+  left:166px;
+  top:4px;
+}
+
+._5 {
+
+
+  position:absolute;
+  left:220px;
+  top:4px;
+}
+
+._6 {
+
+
+  top:58px;
+  position:absolute;
+  left:4px;
+
+}
+
+._7 {
+
+
+  position:absolute;
+  left:58px;
+  top:58px;
+}
+
+._8 {
+
+
+  position:absolute;
+  left:112px;
+  top:58px;
+}
+
+._9 {
+
+
+  position: absolute;
+left:166px;
+  top:58px;
+}
+
+._10 {
+
+
+  position:absolute;
+left:220px;
+  top:58px;
+}
+
+._11 {
+
+
+  position:absolute;
+
+  left:4px;
+  top:112px;
+}
+
+._12 {
+
+
+  position:absolute;
+      top:112px;
+    left:58px;
+
+}
+
+._13 {
+
+
+  position:absolute;
+  left:112px;
+    top:112px;
+}
+
+._14 {
+
+
+  position:absolute;
+  left:166px;
+    top:112px;
+}
+
+._15 {
+
+
+  position:absolute;
+  left:220px;
+  top:112px;
+}
+
+._16 {
+
+
+  position:absolute;
+    top:166px;
+    left:4px;
+
+}
+
+._17 {
+
+
+  position:absolute;
+left:58px;
+      top:166px;
+}
+
+._18 {
+
+
+  position:absolute;
+  left:112px;
+    top:166px;
+}
+
+._19 {
+
+
+  position:absolute;
+  left:166px;
+    top:166px;
+}
+
+._20 {
+
+
+  position:absolute;
+  left:220px;
+  top:166px;
+}
+
+._21 {
+
+
+  position:absolute;
+    top:220px;
+    left:4px;
+}
+
+._22 {
+
+
+  position:absolute;
+  left:58px;
+  top:220px;
+}
+
+._23 {
+
+
+  position:absolute;
+left:112px;
+  top:220px;
+}
+
+._24 {
+
+
+  position:absolute;
+left:166px;
+  top:220px;
+}
+
+._25 {
+
+
+  position:absolute;
+  left:220px;
+  top:220px;
+}
+.invisible{
+  visibility: hidden;
+}
